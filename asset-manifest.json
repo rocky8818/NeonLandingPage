@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/NeonLandingPage/static/css/main.abd64e84.css",
+    "main.js": "/NeonLandingPage/static/js/main.46d6132f.js",
+    "static/media/featured3.jpg": "/NeonLandingPage/static/media/featured3.13119931c2ed9b4123c4.jpg",
+    "static/media/product-3.jpg": "/NeonLandingPage/static/media/product-3.0b5f38fd6db5374ae12f.jpg",
+    "static/media/product-2.jpg": "/NeonLandingPage/static/media/product-2.7d954f7ea5e69ce6706b.jpg",
+    "static/media/bg.jpg": "/NeonLandingPage/static/media/bg.51a3ef4d890054f7ba66.jpg",
+    "static/media/product-1.jpg": "/NeonLandingPage/static/media/product-1.2a33a0a1a56ec1ecec5e.jpg",
+    "index.html": "/NeonLandingPage/index.html",
+    "main.abd64e84.css.map": "/NeonLandingPage/static/css/main.abd64e84.css.map",
+    "main.46d6132f.js.map": "/NeonLandingPage/static/js/main.46d6132f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.46d6132f.js"
+  ]
+}
